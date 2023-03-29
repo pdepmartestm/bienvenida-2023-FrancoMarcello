@@ -9,3 +9,5 @@ Tengo 20 años, vivo en San Miguel asi que tengo mi viajecito para ir a la facu.
 
 Espero tener una buena cursada y llevarme bien con todos.
 Vamo messi :)
+
+![Foto](foto.jpg)
