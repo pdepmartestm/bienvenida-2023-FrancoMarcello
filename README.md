@@ -11,4 +11,3 @@ Espero tener una buena cursada y llevarme bien con todos.
 Vamo messi :)
 
 ![Foto](fotoYo.jpg)
-![Foto](fotoZeus.jpg)
